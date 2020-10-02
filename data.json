@@ -1,67 +1,53 @@
-[
-  {
-    "id": 1,
-    "name": "A3DVNTWRSG01",
-    "parent_id": 0
+[{
+    "name": "Alberta",
+    "abbreviation": "AB"
   },
   {
-    "id": 2,
-    "name": "A3LPNTWRSG01",
-    "parent_id": 0
+    "name": "British Columbia",
+    "abbreviation": "BC"
   },
   {
-    "id": 3,
-    "name": "A3PCNTWRSG01",
-    "parent_id": 0
+    "name": "Manitoba",
+    "abbreviation": "MB"
   },
   {
-    "id": 4,
-    "name": "A3PDNTWRSG01",
-    "parent_id": 0
+    "name": "New Brunswick",
+    "abbreviation": "NB"
   },
   {
-    "id": 5,
-    "name": "A3PRNTWRSG01",
-    "parent_id": 0
+    "name": "Newfoundland and Labrador",
+    "abbreviation": "NL"
   },
   {
-    "id": 6,
-    "name": "A3TSNTWRSG01",
-    "parent_id": 0
+    "name": "Nova Scotia",
+    "abbreviation": "NS"
   },
   {
-    "id": 7,
-    "name": "A3DVNTWVTN01",
-    "parent_id": 1
+    "name": "Northwest Territories",
+    "abbreviation": "NT"
   },
   {
-    "id": 8,
-    "name": "A3LPNTWVTN01",
-    "parent_id": 2
+    "name": "Nunavut",
+    "abbreviation": "NU"
   },
   {
-    "id": 9,
-    "name": "A3PCNTWVTN01",
-    "parent_id": 3
+    "name": "Ontario",
+    "abbreviation": "ON"
   },
   {
-    "id": 10,
-    "name": "A3PDNTWVTN01",
-    "parent_id": 4
+    "name": "Prince Edward Island",
+    "abbreviation": "PE"
   },
   {
-    "id": 11,
-    "name": "A3PRNTWVTN01",
-    "parent_id": 5
+    "name": "Quebec",
+    "abbreviation": "QC"
   },
   {
-    "id": 12,
-    "name": "A3TSNTWVTN01",
-    "parent_id": 6
+    "name": "Saskatchewan",
+    "abbreviation": "SK"
   },
   {
-    "id": 13,
-    "name": 30,
-    "parent_id": 7
-   }
+    "name": "Yukon",
+    "abbreviation": "YT"
+  }
 ]
