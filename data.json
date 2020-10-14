@@ -26,37 +26,37 @@
   },
   {
     "id": 6,
-    "name": "A3DVNTWVTN01 10.54.128.0/18",
+    "name": "A3DVNTWVTN01  10.54.128.0/18",
     "parent_id": 1
   },
   {
     "id": 7,
-    "name": "A3DVNTWVTN01 10.151.0.0/16",
+    "name": "A3DVNTWVTN01  10.151.0.0/16",
     "parent_id": 1
   },
   {
     "id": 8,
-    "name": "A3LPNTWVTN01 10.56.128.0/18",
+    "name": "A3LPNTWVTN01  10.56.128.0/18",
     "parent_id": 2
   },
   {
     "id": 9,
-    "name": "A3PCNTWVTN01 10.52.128.0/18",
+    "name": "A3PCNTWVTN01  10.52.128.0/18",
     "parent_id": 3
   },
    {
     "id": 10,
-    "name": "A3PCNTWVTN01 10.152.0.0/16",
+    "name": "A3PCNTWVTN01  10.152.0.0/16",
     "parent_id": 3
   },
   {
     "id": 11,
-    "name": "A3PDNTWVTN01 10.55.128.0/18",
+    "name": "A3PDNTWVTN01  10.55.128.0/18",
     "parent_id": 4
   },
   {
     "id": 11,
-    "name": "A3PRNTWVTN01 10.53.128.0/18",
+    "name": "A3PRNTWVTN01  10.53.128.0/18",
     "parent_id": 5
   },
   {
